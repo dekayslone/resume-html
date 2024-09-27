@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(156, 45, 45);
+}
+
+
+.name {
+    color: rgb(255, 51, 0);
+}
+.Summary {
+    color: rgb(255, 51, 0);
+}
+.Summary-Text {
+    color: rgb(255, 255, 255);
+}
+.Education {
+    color: rgb(255, 51, 0);
+}
+.IBTProg {
+    color: rgb(255, 255, 255);
+}
+h1 {
+    font-family: DM , sans-serif;
+    color: white;
+}
+p {
+    font-family: montserrat, san serif;
+    font-weight: 400;
+}
+h3 {
+    font-family: inter, san serif ;
+}
